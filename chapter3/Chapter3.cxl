@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <res-meta>
+        <dc:title>Untitled 1</dc:title>
+        <dc:creator>
+            <vcard:FN>Anoch Mohan</vcard:FN>
+            <vcard:EMAIL>anochmohan@gmail.com</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>CCE</vcard:Orgname>
+            </vcard:ORG>
+        </dc:creator>
+        <dc:contributor>
+            <vcard:FN>Anoch Mohan</vcard:FN>
+            <vcard:EMAIL>anochmohan@gmail.com</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>CCE</vcard:Orgname>
+            </vcard:ORG>
+        </dc:contributor>
+        <dcterms:rightsHolder>
+            <vcard:FN>Anoch Mohan</vcard:FN>
+            <vcard:EMAIL>anochmohan@gmail.com</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>CCE</vcard:Orgname>
+            </vcard:ORG>
+        </dcterms:rightsHolder>
+        <dc:language>en</dc:language>
+        <dc:format>x-cmap/x-storable</dc:format>
+        <dc:publisher>FIHMC CmapTools 6.01.01</dc:publisher>
+        <dc:source>cmap:1QRBD21FC-4XQ3MG-1:1QRBD2389-VRG7TQ-Z:1QRQ9SVNH-1HVC0JG-5G</dc:source>
+    </res-meta>
+    <map width="1956" height="1212">
+        <concept-list>
+            <concept id="1QRQGBM45-20V65FX-1QT" label="Insulin"/>
+            <concept id="1QRQDJ5FQ-GNMC10-139" label="Protein production"/>
+            <concept id="1QRQHGQPR-RT3X32-21M" label="Growth&#xa;Media"/>
+            <concept id="1QRQC5M56-5GK7RD-R5" label="Bacteria Cells"/>
+            <concept id="1QRQDSD1W-2DQ6FVT-17F" label="sauerkraut production"/>
+            <concept id="1QRQFY4BN-1SKN204-1N8" label="agriculture"/>
+            <concept id="1QRQC6DCX-1GNX6GS-S9" label="Eukaryotic cells"/>
+            <concept id="1QRQDR16L-TC0BDB-16B" label="cheese production"/>
+            <concept id="1QRQHJ2R8-15M3JSW-235" label="Antibiotic&#xa;Selection"/>
+            <concept id="1QRQFR04M-1DC51ZH-1GR" label="Recombinant&#xa;protein"/>
+            <concept id="1QRQ9V223-WHZS6G-5Q" label="Anoch Mohan&#xa;Biotechnology&#xa;11/15/2016"/>
+            <concept id="1QRQCYHNZ-1XZJT1L-TZ" label="food Production"/>
+            <concept id="1QRQCZBPP-11H8KF-W8" label="culturing"/>
+            <concept id="1QRQFW201-BTQ5-1LC" label="Therapeutic&#xa;drugs"/>
+            <concept id="1QRQB40TM-28WJ39M-83" label="Cells in Biotechnology "/>
+            <concept id="1QRQGC7Z4-W6FW1K-1S8" label="Bovine"/>
+            <concept id="1QRQ9WKP7-RVRJG2-78" label="What is Microbiology?"/>
+            <concept id="1QRQCZY0P-FM1FNJ-XF" label="Fermentation"/>
+            <concept id="1QRQDT1X9-1Z73SDV-18M" label="pickles production"/>
+            <concept id="1QRQHJT9M-1H4PGB-24B" label="Liquid &#xa;Media"/>
+            <concept id="1QRQDQ0QK-D31T3J-14M" label="yogurt production"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="1QRQHB4F5-QNQ2XN-20J" label="use"/>
+            <linking-phrase id="1QRQFW202-KG3ZTB-1LG" label="used in"/>
+            <linking-phrase id="1QRQCZY0Q-15TXQW-XJ" label="uses"/>
+            <linking-phrase id="1QRQHGQPS-1QS16V7-21Q" label="requires materials&#xa;such as"/>
+            <linking-phrase id="1QRQDQ0QL-2BMLT8X-14Q" label="for example"/>
+            <linking-phrase id="1QRQC5M58-1MQWTB8-R8" label="studies"/>
+            <linking-phrase id="1QRQGBM46-17S416T-1QX" label="for&#xa;example"/>
+            <linking-phrase id="1QRQFR04N-DRSB0Y-1GV" label="produces"/>
+            <linking-phrase id="1QRQGC7Z5-1SFGY8G-1SC" label="for&#xa;example"/>
+            <linking-phrase id="1QRQCYHP0-44FWZF-V2" label="uses"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection id="1QRQHJT9N-254F4QK-24F" from-id="1QRQHGQPS-1QS16V7-21Q" to-id="1QRQHJT9M-1H4PGB-24B"/>
+            <connection id="1QRQFR04P-R9H307-1GY" from-id="1QRQDJ5FQ-GNMC10-139" to-id="1QRQFR04N-DRSB0Y-1GV"/>
+            <connection id="1QRQDQ0QM-1Q09P3C-14T" from-id="1QRQCYHNZ-1XZJT1L-TZ" to-id="1QRQDQ0QL-2BMLT8X-14Q"/>
+            <connection id="1QRQGC7Z6-1GHB0FL-1SG" from-id="1QRQFY4BN-1SKN204-1N8" to-id="1QRQGC7Z5-1SFGY8G-1SC"/>
+            <connection id="1QRQGBM47-1VL57P7-1R0" from-id="1QRQFW201-BTQ5-1LC" to-id="1QRQGBM46-17S416T-1QX"/>
+            <connection id="1QRQHJ2R9-207BJ87-238" from-id="1QRQHGQPS-1QS16V7-21Q" to-id="1QRQHJ2R8-15M3JSW-235"/>
+            <connection id="1QRQKZ4WD-QLNRD8-2CZ" from-id="1QRQCZY0Q-15TXQW-XJ" to-id="1QRQDJ5FQ-GNMC10-139"/>
+            <connection id="1QRQC6DCZ-KP80CY-SD" from-id="1QRQC5M58-1MQWTB8-R8" to-id="1QRQC6DCX-1GNX6GS-S9"/>
+            <connection id="1QRQFW203-19Z79SW-1LK" from-id="1QRQFR04M-1DC51ZH-1GR" to-id="1QRQFW202-KG3ZTB-1LG"/>
+            <connection id="1QRQC5M58-PRS8HB-RC" from-id="1QRQB40TM-28WJ39M-83" to-id="1QRQC5M58-1MQWTB8-R8"/>
+            <connection id="1QRQCYHP1-GJDDS8-V5" from-id="1QRQC5M56-5GK7RD-R5" to-id="1QRQCYHP0-44FWZF-V2"/>
+            <connection id="1QRQGBM47-JKTGG6-1R6" from-id="1QRQGBM46-17S416T-1QX" to-id="1QRQGBM45-20V65FX-1QT"/>
+            <connection id="1QRQCYHP1-QGVVTN-VC" from-id="1QRQCYHP0-44FWZF-V2" to-id="1QRQCYHNZ-1XZJT1L-TZ"/>
+            <connection id="1QRQHB4F6-Z2YPT9-20M" from-id="1QRQFR04M-1DC51ZH-1GR" to-id="1QRQHB4F5-QNQ2XN-20J"/>
+            <connection id="1QRQGC7Z6-FMRNFW-1SN" from-id="1QRQGC7Z5-1SFGY8G-1SC" to-id="1QRQGC7Z4-W6FW1K-1S8"/>
+            <connection id="1QRQFW203-1VBM4B-1LR" from-id="1QRQFW202-KG3ZTB-1LG" to-id="1QRQFW201-BTQ5-1LC"/>
+            <connection id="1QRQCZY0R-DNHD4F-XM" from-id="1QRQC6DCX-1GNX6GS-S9" to-id="1QRQCZY0Q-15TXQW-XJ"/>
+            <connection id="1QRQDR16M-802DT1-16F" from-id="1QRQDQ0QL-2BMLT8X-14Q" to-id="1QRQDR16L-TC0BDB-16B"/>
+            <connection id="1QRQHGQPT-LKRNY8-21T" from-id="1QRQCZBPP-11H8KF-W8" to-id="1QRQHGQPS-1QS16V7-21Q"/>
+            <connection id="1QRQDQ0QM-1TZNLCJ-150" from-id="1QRQDQ0QL-2BMLT8X-14Q" to-id="1QRQDQ0QK-D31T3J-14M"/>
+            <connection id="1QRQDJ5FR-12QTWSW-13D" from-id="1QRQCYHP0-44FWZF-V2" to-id="1QRQDJ5FQ-GNMC10-139"/>
+            <connection id="1QRQHGQPT-5WFL1T-220" from-id="1QRQHGQPS-1QS16V7-21Q" to-id="1QRQHGQPR-RT3X32-21M"/>
+            <connection id="1QRQHB4F6-2584KW5-20S" from-id="1QRQHB4F5-QNQ2XN-20J" to-id="1QRQCZBPP-11H8KF-W8"/>
+            <connection id="1QRQM764N-1DJC329-2GG" from-id="1QRQCZY0Q-15TXQW-XJ" to-id="1QRQCZBPP-11H8KF-W8"/>
+            <connection id="1QRQFR04P-2B43MW6-1H4" from-id="1QRQFR04N-DRSB0Y-1GV" to-id="1QRQFR04M-1DC51ZH-1GR"/>
+            <connection id="1QRQDSD1X-1CGCC4X-17J" from-id="1QRQDQ0QL-2BMLT8X-14Q" to-id="1QRQDSD1W-2DQ6FVT-17F"/>
+            <connection id="1QRQCZY0R-BFCDWV-XT" from-id="1QRQCZY0Q-15TXQW-XJ" to-id="1QRQCZY0P-FM1FNJ-XF"/>
+            <connection id="1QRQL7WZ1-LXVBDN-2DY" from-id="1QRQCZBPP-11H8KF-W8" to-id="1QRQCYHP0-44FWZF-V2"/>
+            <connection id="1QRQDT1XC-1WNBDY5-18Q" from-id="1QRQDQ0QL-2BMLT8X-14Q" to-id="1QRQDT1X9-1Z73SDV-18M"/>
+            <connection id="1QRQC5M59-2X81C2-RJ" from-id="1QRQC5M58-1MQWTB8-R8" to-id="1QRQC5M56-5GK7RD-R5"/>
+            <connection id="1QRQFY4BP-23ZSDZW-1NC" from-id="1QRQFW202-KG3ZTB-1LG" to-id="1QRQFY4BN-1SKN204-1N8"/>
+            <connection id="1QRQFYR8R-1XV6H5B-1P4" from-id="1QRQFW202-KG3ZTB-1LG" to-id="1QRQCYHNZ-1XZJT1L-TZ"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance id="1QRQGBM45-20V65FX-1QT" x="1101" y="1225" width="57" height="25" background-color="150,200,255,255"/>
+            <concept-appearance id="1QRQDJ5FQ-GNMC10-139" x="962" y="603" width="127" height="28" background-color="255,255,150,255"/>
+            <concept-appearance id="1QRQHGQPR-RT3X32-21M" x="1256" y="865" width="60" height="40" background-color="200,255,200,255"/>
+            <concept-appearance id="1QRQC5M56-5GK7RD-R5" x="896" y="361" width="98" height="25" background-color="255,200,150,255"/>
+            <concept-appearance id="1QRQDSD1W-2DQ6FVT-17F" x="570" y="852" width="149" height="28" background-color="200,255,200,255"/>
+            <concept-appearance id="1QRQFY4BN-1SKN204-1N8" x="1214" y="1059" width="81" height="28"/>
+            <concept-appearance id="1QRQC6DCX-1GNX6GS-S9" x="1560" y="354" width="110" height="28" background-color="255,200,150,255"/>
+            <concept-appearance id="1QRQDR16L-TC0BDB-16B" x="414" y="851" width="126" height="28" background-color="200,255,200,255"/>
+            <concept-appearance id="1QRQHJ2R8-15M3JSW-235" x="1340" y="872" width="72" height="40" background-color="200,255,200,255"/>
+            <concept-appearance id="1QRQFR04M-1DC51ZH-1GR" x="1092" y="862" width="95" height="42" background-color="200,255,200,255"/>
+            <concept-appearance id="1QRQ9V223-WHZS6G-5Q" x="114" y="58" width="101" height="56"/>
+            <concept-appearance id="1QRQCYHNZ-1XZJT1L-TZ" x="749" y="606" width="110" height="25" background-color="255,255,150,255"/>
+            <concept-appearance id="1QRQCZBPP-11H8KF-W8" x="1202" y="599" width="69" height="28" background-color="255,255,150,255"/>
+            <concept-appearance id="1QRQFW201-BTQ5-1LC" x="1034" y="1061" width="87" height="42"/>
+            <concept-appearance id="1QRQB40TM-28WJ39M-83" x="1208" y="146" width="152" height="28" background-color="255,150,200,255" border-color="0,0,0,255"/>
+            <concept-appearance id="1QRQGC7Z4-W6FW1K-1S8" x="1200" y="1227" width="57" height="25" background-color="150,200,255,255"/>
+            <concept-appearance id="1QRQ9WKP7-RVRJG2-78" x="1944" y="90" width="147" height="28"/>
+            <concept-appearance id="1QRQCZY0P-FM1FNJ-XF" x="1472" y="603" width="96" height="25" background-color="255,255,150,255"/>
+            <concept-appearance id="1QRQDT1X9-1Z73SDV-18M" x="737" y="854" width="125" height="28" background-color="200,255,200,255"/>
+            <concept-appearance id="1QRQHJT9M-1H4PGB-24B" x="1417" y="868" width="56" height="40" background-color="200,255,200,255"/>
+            <concept-appearance id="1QRQDQ0QK-D31T3J-14M" x="269" y="851" width="124" height="28" background-color="200,255,200,255"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance id="1QRQHB4F5-QNQ2XN-20J" x="1151" y="727" width="23" height="9"/>
+            <linking-phrase-appearance id="1QRQFW202-KG3ZTB-1LG" x="1125" y="963" width="46" height="11"/>
+            <linking-phrase-appearance id="1QRQCZY0Q-15TXQW-XJ" x="1522" y="449" width="29" height="9"/>
+            <linking-phrase-appearance id="1QRQHGQPS-1QS16V7-21Q" x="1259" y="728" width="111" height="26"/>
+            <linking-phrase-appearance id="1QRQDQ0QL-2BMLT8X-14Q" x="558" y="722" width="74" height="14"/>
+            <linking-phrase-appearance id="1QRQC5M58-1MQWTB8-R8" x="1203" y="266" width="45" height="11"/>
+            <linking-phrase-appearance id="1QRQGBM46-17S416T-1QX" x="1012" y="1152" width="53" height="28"/>
+            <linking-phrase-appearance id="1QRQFR04N-DRSB0Y-1GV" x="1011" y="724" width="57" height="14"/>
+            <linking-phrase-appearance id="1QRQGC7Z5-1SFGY8G-1SC" x="1230" y="1137" width="53" height="28"/>
+            <linking-phrase-appearance id="1QRQCYHP0-44FWZF-V2" x="872" y="452" width="29" height="9"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance id="1QRQHJT9N-254F4QK-24F" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQFR04P-R9H307-1GY" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQDQ0QM-1Q09P3C-14T" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQGC7Z6-1GHB0FL-1SG" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQGBM47-1VL57P7-1R0" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQHJ2R9-207BJ87-238" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQKZ4WD-QLNRD8-2CZ" from-pos="center" to-pos="center" type="spline" arrowhead="if-to-concept">
+                <control-point x="1238" y="434"/>
+            </connection-appearance>
+            <connection-appearance id="1QRQC6DCZ-KP80CY-SD" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQFW203-19Z79SW-1LK" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQC5M58-PRS8HB-RC" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQCYHP1-GJDDS8-V5" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQGBM47-JKTGG6-1R6" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQCYHP1-QGVVTN-VC" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQHB4F6-Z2YPT9-20M" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQGC7Z6-FMRNFW-1SN" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQFW203-1VBM4B-1LR" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQCZY0R-DNHD4F-XM" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQDR16M-802DT1-16F" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQHGQPT-LKRNY8-21T" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQDQ0QM-1TZNLCJ-150" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQDJ5FR-12QTWSW-13D" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQHGQPT-5WFL1T-220" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQHB4F6-2584KW5-20S" from-pos="center" to-pos="center" arrowhead="if-to-concept-and-slopes-up"/>
+            <connection-appearance id="1QRQM764N-1DJC329-2GG" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+            <connection-appearance id="1QRQFR04P-2B43MW6-1H4" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQDSD1X-1CGCC4X-17J" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQCZY0R-BFCDWV-XT" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQL7WZ1-LXVBDN-2DY" from-pos="center" to-pos="top" arrowhead="if-to-concept"/>
+            <connection-appearance id="1QRQDT1XC-1WNBDY5-18Q" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQC5M59-2X81C2-RJ" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQFY4BP-23ZSDZW-1NC" from-pos="center" to-pos="center" arrowhead="no"/>
+            <connection-appearance id="1QRQFYR8R-1XV6H5B-1P4" from-pos="center" to-pos="center" type="spline" arrowhead="no">
+                <control-point x="867" y="936"/>
+            </connection-appearance>
+        </connection-appearance-list>
+        <style-sheet-list>
+            <style-sheet id="_Default_">
+                <map-style background-color="255,255,255,0"/>
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1"
+                    border-shape="rounded-rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" max-width="-1.0"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1"
+                    border-shape="rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="_LatestChanges_">
+                <concept-style background-color="150,200,255,255" border-color="0,0,0,255" shadow-color="255,200,150,255"/>
+                <connection-style arrowhead="if-to-concept"/>
+            </style-sheet>
+        </style-sheet-list>
+        <extra-graphical-properties-list>
+            <properties-list id="1QRQ9SVNH-1HVC0JG-5G">
+                <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
+            </properties-list>
+        </extra-graphical-properties-list>
+    </map>
+</cmap>
